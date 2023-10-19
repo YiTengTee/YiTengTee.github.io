@@ -19,8 +19,8 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'mini_racer'
     gem 'unicode_utils'
-    gem 'webrick','~> 1.7'
 end
+    gem 'webrick','~> 1.7'
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
