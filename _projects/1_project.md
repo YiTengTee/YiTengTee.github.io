@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: 研一学习笔记
+description: 一些学习内容
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: study
+related_publications: 
 ---
 
 Every project has a beautiful feature showcase page.
