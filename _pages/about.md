@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. 郑宇廷.南京大学 新闻传播学�
 
 profile:
   align: right
-  image: withflower.jpg
+  image: withflower.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 1719</p>
